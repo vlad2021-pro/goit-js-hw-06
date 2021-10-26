@@ -23,4 +23,4 @@ decrement.addEventListener("click", () => {
 
 increment.addEventListener("click", () => {
     counterValue += 1;
-    value.textContent = counterValue;
+    value.textContent = counterValue;})
